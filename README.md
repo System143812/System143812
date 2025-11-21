@@ -1,7 +1,7 @@
 # Hey there, I'm System143812 👋
 
 A front-end enthusiast who loves bringing ideas to life through design and code  
-Loves art especially pixel ones :) 
+🧡Loves art especially pixel ones :) 
 Based in the Philippines 
 
 ---
@@ -34,7 +34,7 @@ Based in the Philippines
 
 ## 🧠 What I'm Currently Working On
 
-- 😭 Practicing some backends using Node.js and express
+- 😭 Practicing some backend using Node.js and express
 - 🎨 Cool front-end UI/UX designs
 - 🔧 Strengthening my skills in JavaScript and responsive design
 
