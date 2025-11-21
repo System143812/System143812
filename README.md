@@ -1,8 +1,8 @@
 # Hey there, I'm System143812 👋
 
-🎨 A front-end enthusiast who loves bringing ideas to life through design and code  
-🎮 Passionate about **game development** and interactive user experiences  
-📍 Based in the Philippines 🇵🇭  
+A front-end enthusiast who loves bringing ideas to life through design and code  
+Loves art especially pixel ones :) 
+Based in the Philippines 
 
 ---
 
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 ![System143812's GitHub Stats](https://github-readme-stats.vercel.app/api?username=System143812&show_icons=true&theme=tokyonight)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=System143812&layout=compact&theme=tokyonight)
@@ -34,7 +34,7 @@
 
 ## 🧠 What I'm Currently Working On
 
-- 🎮 Small browser-based games
+- 😭 Practicing some backends using Node.js and express
 - 🎨 Cool front-end UI/UX designs
 - 🔧 Strengthening my skills in JavaScript and responsive design
 
