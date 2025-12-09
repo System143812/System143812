@@ -24,7 +24,7 @@ Based in the Philippines
 
 ---
 
-<div width="100%" justify-content="center">
+<div width="100%" align="center">
   <img src="https://github.com/System143812/System143812/blob/main/assets/aurora-aksnes (1).gif" width="33%"/> 
   <img src="https://github.com/System143812/System143812/blob/main/assets/roraSpin.gif" width="33%"/> 
   <img src="https://github.com/System143812/System143812/blob/main/assets/auroa-aksnes.gif" width="33%"/> 
