@@ -30,11 +30,9 @@ Based in the Philippines
   <img src="https://github.com/System143812/System143812/blob/main/assets/auroa-aksnes.gif" width="33%"/> 
 </div>
 
-
-[![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
-
 ---
 
+[![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
 ## 🧠 What I'm Currently Working On
 
 - 😭 Practicing backend using Node.js and Express  
