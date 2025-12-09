@@ -2,11 +2,11 @@
 
 A front-end enthusiast who loves bringing ideas to life through design and code  
 🧡 Loves art especially pixel ones :)  
-Based in the Philippines 
+Based in the Philippines
 
 ---
 
-## 🛠️ Tech Stack I Use and Love
+## 🛠️ Tech Stack I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -24,12 +24,12 @@ Based in the Philippines
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![System143812's GitHub Stats](https://github-readme-stats.vercel.app/api?username=System143812&show_icons=true&count_private=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=System143812&layout=compact&theme=radical)
+![Contribution Graph](https://github.com/System143812.png?tab=overview)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=System143812&theme=radical)
+[![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
+[![Repos](https://img.shields.io/github/repos/System143812?style=for-the-badge)](https://github.com/System143812?tab=repositories)  
 
 ---
 
@@ -42,10 +42,5 @@ Based in the Philippines
 ---
 
 ## 🔗 Connect With Me
-
-[![GitHub followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
-[![GitHub stars](https://img.shields.io/github/stars/System143812?style=for-the-badge)](https://github.com/System143812/stargazers)  
-[![GitHub issues](https://img.shields.io/github/issues/System143812?style=for-the-badge)](https://github.com/System143812/issues)  
-[![GitHub pull requests](https://img.shields.io/github/issues-pr/System143812?style=for-the-badge)](https://github.com/System143812/pulls)
 
 💌 Message me here on GitHub — I'm always open to collaborate or share ideas!
