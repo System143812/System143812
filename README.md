@@ -26,7 +26,7 @@ Based in the Philippines
 
 ## 📊 GitHub
 
-![Contribution Graph](https://github.com/System143812.png?tab=overview)  
+![Contribution Graph](https://tenor.com/view/aurora-aksnes-gif-24793838)  
 
 [![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
 [![Repos](https://img.shields.io/github/repos/System143812?style=for-the-badge)](https://github.com/System143812?tab=repositories)  
