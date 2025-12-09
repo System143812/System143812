@@ -1,4 +1,4 @@
-# Hey there, I'm System143812 👋
+# Hey there, I'm System143812
 
 A front-end enthusiast who loves bringing ideas to life through design and code  
 🧡 Loves art especially pixel ones :)  
@@ -34,7 +34,7 @@ Based in the Philippines
 
 ## 🧠 What I'm Currently Working On
 
-- 😭 Practicing backend using Node.js and Express  
+- 😭 Improving backend skills using Node.js and Express  
 - 🎨 Cool front-end UI/UX designs  
 - 🔧 Strengthening my skills in JavaScript and responsive design  
 
