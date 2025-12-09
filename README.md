@@ -25,7 +25,7 @@ Based in the Philippines
 ---
 
 <div width="100%" justify-content="center">
-  <img src="https://github.com/System143812/System143812/blob/main/assets/warrors-and-wierdos-aurora.gif" width="100%" /> 
+  <img src="https://github.com/System143812/System143812/blob/main/assets/roraSpin.gif" width="100%" /> 
 </div>
 
 
