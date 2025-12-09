@@ -24,7 +24,10 @@ Based in the Philippines
 
 ---
 
-![Contribution Graph](https://github.com/System143812/System143812/blob/main/assets/warrors-and-wierdos-aurora.gif)  
+<div width="100%" justify-content="center">
+  <img src="https://github.com/System143812/System143812/blob/main/assets/warrors-and-wierdos-aurora.gif" width="100%" /> 
+</div>
+
 
 [![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
 
