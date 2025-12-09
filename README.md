@@ -22,19 +22,18 @@ Based in the Philippines
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="40" />
 </p>
 
-
 ---
 
 ## GitHub Stats
 
-![System143812's GitHub Stats](https://github-readme-stats.vercel.app/api?username=System143812&show_icons=true&theme=tokyonight)
+![System143812's GitHub Stats](https://github-readme-stats.vercel.app/api?username=System143812&show_icons=true&theme=tokyonight&count_private=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=System143812&layout=compact&theme=tokyonight)
 
 ---
 
 ## 🧠 What I'm Currently Working On
 
-- 😭 Practicing some backend using Node.js and express
+- 😭 Practicing some backend using Node.js and Express
 - 🎨 Cool front-end UI/UX designs
 - 🔧 Strengthening my skills in JavaScript and responsive design
 
