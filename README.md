@@ -32,7 +32,6 @@ Based in the Philippines
 
 ---
 
-[![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
 ## 🧠 What I'm Currently Working On
 
 - 😭 Practicing backend using Node.js and Express  
