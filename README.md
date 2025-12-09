@@ -24,12 +24,12 @@ Based in the Philippines
 
 ---
 
-## 📊 GitHub
+<div width="100%" justify-content="center">
+  <img src="https://github.com/System143812/System143812/blob/main/assets/warrors-and-wierdos-aurora.gif" width="100%" /> 
+</div>
 
-![Contribution Graph]([https://tenor.com/view/aurora-aksnes-gif-24793838])  
 
 [![Followers](https://img.shields.io/github/followers/System143812?style=for-the-badge)](https://github.com/System143812?tab=followers)  
-[![Repos](https://img.shields.io/github/repos/System143812?style=for-the-badge)](https://github.com/System143812?tab=repositories)  
 
 ---
 
