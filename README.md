@@ -36,7 +36,8 @@ Based in the Philippines
 
 - 😭 Improving backend skills using Node.js and Express  
 - 🎨 Cool front-end UI/UX designs  
-- 🔧 Strengthening my skills in JavaScript and responsive design  
+- 🔧 Strengthening my skills in JavaScript and responsive design
+- 🤖 Learning A.I systems and technologies :)
 
 ---
 
