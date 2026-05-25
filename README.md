@@ -1,6 +1,6 @@
-# Hey there, I'm System143812
+# Heya, I'm System143812
 
-A front-end enthusiast who loves bringing ideas to life through design and code  
+A full-stack enthusiast who loves bringing ideas to life through design and code  
 🧡 Loves art especially pixel ones :)  
 Based in the Philippines
 
