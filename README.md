@@ -24,14 +24,6 @@ Based in the Philippines
 
 ---
 
-<div width="100%" align="center">
-  <img src="https://github.com/System143812/System143812/blob/main/assets/aurora-aksnes-aurora-you.gif" width="32%" align="center"/> 
-  <img src="https://github.com/System143812/System143812/blob/main/assets/roraSpin.gif" width="32%" align="center"/> 
-  <img src="https://github.com/System143812/System143812/blob/main/assets/warrors-and-wierdos-aurora.gif" width="32%" align="center"/> 
-</div>
-
----
-
 ## 🧠 What I'm Currently Working On
 
 - 😭 Improving backend skills using Node.js and Express  
