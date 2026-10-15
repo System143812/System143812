@@ -1,6 +1,6 @@
 # Heya, I'm System143812
 
-An aspiring full-stack kiddo
+An aspiring full-stack kiddo <br>
 🧡 Loves art especially pixel ones :)  
 Based in the Philippines
 
