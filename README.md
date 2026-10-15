@@ -26,13 +26,13 @@ Based in the Philippines
 
 ##  What I'm Currently Working On :)
 
-- 😭 Improving backend skills using Node.js and Express  
-- 🎨 Cool front-end UI/UX designs  
-- 🔧 Strengthening my skills in JavaScript and responsive design
-- 🤖 Learning A.I systems and technologies :)
+- Improving backend skills using Node.js and Express  
+- Backend architecture and designs 
+- Strengthening my skills in JavaScript and responsive design
+- Learning A.I systems and technologies, interested in automation as well :)
 
 ---
 
 ## 🔗 Connect With Me
 
-💌 Message me here on GitHub — I'm always open to collaborate or share ideas!
+Message me here on GitHub - I'm always open to collaborate or share ideas!
