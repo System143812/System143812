@@ -1,12 +1,12 @@
 # Heya, I'm System143812
 
-A full-stack enthusiast who loves bringing ideas to life through design and code  
+An aspiring full-stack kiddo
 🧡 Loves art especially pixel ones :)  
 Based in the Philippines
 
 ---
 
-## 🛠️ Tech Stack I Use
+## Tech Stack I Use
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" />
@@ -24,7 +24,7 @@ Based in the Philippines
 
 ---
 
-## 🧠 What I'm Currently Working On
+##  What I'm Currently Working On :)
 
 - 😭 Improving backend skills using Node.js and Express  
 - 🎨 Cool front-end UI/UX designs  
